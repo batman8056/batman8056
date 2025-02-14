@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on **[batman-tutorial-point](https://batman8056.github.io/batman-tutorial-point/)**  
-- 🌱 Learning **Cloud Technologies, DevOps, and AI**  
+- 🌱 Learning **Cloud Technologies and AI**  
 - 💬 Ask me about **JavaScript, Node.js, React, and AWS**   
 - ⚡ Fun fact: I love problem-solving! 🎮
 
@@ -58,9 +58,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=batman8056&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batman8056&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ## 🎯 Let's Connect
 📩 Feel free to **reach out** **[LinkedIn](https://www.linkedin.com/in/manikandan-pandian-39b16621b/)**.  
