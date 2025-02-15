@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 Currently working on **[batman-tutorial-point](https://batman8056.github.io/batman-tutorial-point/)**  
+- 🔭 Currently working on **[batman-tutorial-point](https://github.com/batman8056/batman-tutorial-point/)**  
 - 🌱 Learning **Cloud Technologies and AI**  
 - 💬 Ask me about **JavaScript, Node.js, React, and AWS**   
 - ⚡ Fun fact: I love problem-solving! 🎮
