@@ -60,7 +60,7 @@
 
 
 ## 🎯 Let's Connect
-📩 Feel free to **reach out** **[LinkedIn](https://www.linkedin.com/in/manikandan-pandian-39b16621b/)**.  
+📩 Feel free to **reach out me** **[LinkedIn](https://www.linkedin.com/in/manikandan-pandian-39b16621b/)**.  
 📌 Open to **collaborations**, **freelance projects**, and **exciting opportunities**! 🚀
 
 
