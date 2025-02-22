@@ -24,17 +24,21 @@
   </a>
 </p>
 
-## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+
+## 🚀 **Technical Skills**  
+
+### 💻 **Programming Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)  ![React.js](https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)  
+
+### ☁️ **Cloud Technologies**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white)  ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white)  ![AWS Cloud9](https://img.shields.io/badge/AWS%20Cloud9-232F3E?style=plastic&logo=amazonaws&logoColor=white)  ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=plastic&logo=amazonaws&logoColor=white) ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=plastic&logo=amazonaws&logoColor=white)  ![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=plastic&logo=amazonaws&logoColor=white)  ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=plastic&logo=amazonaws&logoColor=white)  ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-00A1F1?style=plastic&logo=amazonaws&logoColor=white)  ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?style=plastic&logo=amazonaws&logoColor=white)  
+
+### 🛠️ **Software Tools**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)  ![SOAP UI](https://img.shields.io/badge/SOAP%20UI-0044CC?style=plastic&logo=soapui&logoColor=white)  ![Tibco Designer](https://img.shields.io/badge/Tibco%20Designer-0033A0?style=plastic&logo=tibco&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=plastic&logo=jira&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white)  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white)  ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white)  
+
+### 🛢️ **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)  
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -52,6 +56,3 @@
 ## 🎯 Let's Connect
 📩 Feel free to **reach out me** **[LinkedIn](https://www.linkedin.com/in/manikandan-pandian-39b16621b/)**.   
 📌 Open to **collaborations**, **freelance projects**, and **exciting opportunities**! 🚀
-
-
-
