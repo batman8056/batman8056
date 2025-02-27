@@ -14,7 +14,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on **[batman-tutorial-point](https://github.com/batman8056/batman-tutorial-point/)**  
 - 🌱 Learning **Cloud Technologies and AI**  
-- 💬 Ask me about **JavaScript, Node.js, React, and AWS**   
+- 💬 Ask me about **Python, JavaScript, Node.js, React, and AWS**   
 - ⚡ Fun fact: I love problem-solving!
 
 ## 🌐 Connect with Me
