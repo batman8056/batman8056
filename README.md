@@ -37,7 +37,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)  ![SOAP UI](https://img.shields.io/badge/SOAP%20UI-0044CC?style=plastic&logo=soapui&logoColor=white)  ![Tibco Designer](https://img.shields.io/badge/Tibco%20Designer-0033A0?style=plastic&logo=tibco&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=plastic&logo=jira&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white)  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white)  ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white)  
 
 ### 🛢️ **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white) ![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-FF9900?style=plastic&logo=aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=plastic&logo=aws&logoColor=white)
+
+
 
 
 ## 📊 GitHub Stats
