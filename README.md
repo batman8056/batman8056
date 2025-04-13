@@ -41,13 +41,9 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=batman8056&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img height="190em" width="200em" src="https://github-readme-stats.vercel.app/api?username=batman8056&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img height="190em" width="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=batman8056&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=batman8056&theme=dracula" alt="batman8056" />
-  </a>
+  <img height="195em" width="200em" src="https://github-readme-stats.vercel.app/api?username=batman8056&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img height="200em" width="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=batman8056&theme=tokyonight" alt="GitHub Streak" />
+
 </p>
 
 ## 🎯 Let's Connect
