@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=batman8056&label=Profile%20views&color=0e75b6&style=flat" alt="batman8056" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=batman8056&theme=dracula" alt="batman8056" />
-  </a>
-</p>
+
 
 ## 🚀 About Me
 - 🔭 Currently working on **[batman-tutorial-point](https://github.com/batman8056/batman-tutorial-point/)**  
@@ -44,15 +40,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batman8056&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=batman8056&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="190em" width="200em" src="https://github-readme-stats.vercel.app/api?username=batman8056&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img height="190em" width="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=batman8056&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=batman8056&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batman8056&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=batman8056&theme=dracula" alt="batman8056" />
+  </a>
 </p>
 
 ## 🎯 Let's Connect
